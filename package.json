@@ -1,0 +1,16 @@
+{
+  "name": "axios-react-hook",
+  "version": "1.0.0",
+  "description": "A lightweight React hook for Axios-based API calls with support for all HTTP methods.",
+  "main": "src/useAxios.js",
+  "keywords": ["axios", "react", "hook", "api", "http"],
+  "author": "Muhammed Rashid",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devmdrd/axios-react-hook"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
