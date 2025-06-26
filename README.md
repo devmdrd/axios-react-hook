@@ -4,7 +4,7 @@ A simple and customizable React hook for making HTTP requests using Axios.
 
 ## Features
 
-- ✅ Supports GET, POST, PUT, DELETE, PATCH, etc...
+- ✅ Supports GET, POST, PUT, DELETE, PATCH, etc.
 - ✅ Auto and manual fetching
 - ✅ Refetch support
 - ✅ Pass your own Axios instance
