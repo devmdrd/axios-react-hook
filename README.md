@@ -2,6 +2,8 @@
 
 An interactive Postman-style UI for testing both **v1** and **v2** of [axios-react-hook](https://github.com/devmdrd/axios-react-hook).
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/devmdrd/axios-react-hook/tree/playground)
+
 ## Getting started
 
 ```bash
