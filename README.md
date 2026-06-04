@@ -4,6 +4,7 @@ A lightweight React hook for Axios-based API calls with support for all HTTP met
 
 [![npm](https://img.shields.io/npm/v/axios-react-hook)](https://www.npmjs.com/package/axios-react-hook)
 [![license](https://img.shields.io/npm/l/axios-react-hook)](./LICENSE)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/devmdrd/axios-react-hook/tree/playground)
 
 > **v2.0.0** — V2 is now the default import. V2 is built on top of V1 — all V1
 > behaviour is preserved and the positional-arg API remains available via the
