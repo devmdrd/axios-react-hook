@@ -1,6 +1,6 @@
 {
   "name": "axios-react-hook",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A lightweight React hook for Axios-based API calls with support for all HTTP methods.",
   "main": "src/useAxios.js",
   "exports": {
